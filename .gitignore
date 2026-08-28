@@ -1,0 +1,21 @@
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редактори / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+node_modules/
+dist/
+build/
+
+# Локальні налаштування середовища
+.env
+.env.local
